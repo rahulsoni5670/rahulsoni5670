@@ -17,15 +17,15 @@
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22)%3B;Full-Stack+Web+Developer;Applied+AI+%2F+ML+Enthusiast;Building+Scalable+Solutions" 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=38BDF8&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22)%3B;Full-Stack+Web+Developer;Applied+AI+%2F+ML+Enthusiast;Building+Scalable+Solutions" 
   />
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0284C7&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22)%3B;Full-Stack+Web+Developer;Applied+AI+%2F+ML+Enthusiast;Building+Scalable+Solutions" 
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=0284C7&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22)%3B;Full-Stack+Web+Developer;Applied+AI+%2F+ML+Enthusiast;Building+Scalable+Solutions" 
   />
   <img 
     alt="Rahul Soni - Animated Typing Banner" 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22)%3B;Full-Stack+Web+Developer;Applied+AI+%2F+ML+Enthusiast;Building+Scalable+Solutions" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=38BDF8&center=true&vCenter=true&width=550&lines=console.log(%22Hello%2C+World!%22)%3B;Full-Stack+Web+Developer;Applied+AI+%2F+ML+Enthusiast;Building+Scalable+Solutions" 
   />
 </picture>
 
