@@ -1,5 +1,19 @@
 <div align="center">
 
+<!-- Animated Profile Picture (Matrix / Code Constructing Face) -->
+<a href="https://github.com/rahulsoni5670">
+  <img 
+    src="./assets/avatar-coding-animation.gif" 
+    alt="Rahul Soni Avatar" 
+    width="180" 
+    height="180" 
+    style="border-radius: 50%; border: 3px solid #38BDF8;" 
+  />
+</a>
+
+<br/><br/>
+
+<!-- Animated Typing Banner -->
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
